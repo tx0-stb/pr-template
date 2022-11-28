@@ -9,9 +9,9 @@
 ## Description
 <!--- What is the purpose of this opening? -->
 <!--- System: What is the id of the system you are requesting an opening for? -->
-<!--- Environment:What environment are you requesting a change for? You may select more than one. -->
+<!--- Environment: What environment are you requesting a change for? You may select more than one. -->
 <!--- authentication-authorization: Does the service require authentication and/or authorization? -->
-<!--- Source and Destination: What us the source and destination system? -->
+<!--- Source and Destination: What is the source and destination system? -->
 <!--- Exposure: Are you publicly exposing the service as a result of this change? -->
 <!--- Encryption: Is the traffic allowed encrypted in transit? -->
 
